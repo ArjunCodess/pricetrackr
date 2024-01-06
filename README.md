@@ -8,12 +8,12 @@ PriceTrackr is a web application that allows users to track product prices and r
 ![image](https://github.com/ArjunCodess/pricetrackr/assets/137415649/b1bf9583-2a02-4be9-9c31-3ed4eac3e69b)
 
 ### Features
-**Price Tracking**: Monitor product prices effortlessly.
-**Availability Alerts**: Receive notifications when a product goes in or out of stock.
-**Price Drop Notifications**: Get alerted when a product's price drops below a threshold of 40%.
-**User-Friendly Interface**: A simple and intuitive user interface for easy navigation.
-**Email Notifications**: Stay informed through email updates.
-**Track Multiple Products**: Manage and track multiple products simultaneously.
+- **Price Tracking**: Monitor product prices effortlessly.
+- **Availability Alerts**: Receive notifications when a product goes in or out of stock.
+- **Price Drop Notifications**: Get alerted when a product's price drops below a threshold of 40%.
+- **User-Friendly Interface**: A simple and intuitive user interface for easy navigation.
+- **Email Notifications**: Stay informed through email updates.
+- **Track Multiple Products**: Manage and track multiple products simultaneously.
 
 ### Tech Stack
 - **Next.js (React)**
